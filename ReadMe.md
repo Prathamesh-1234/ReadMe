@@ -15,4 +15,4 @@ Background in Chemical Engineering (NIT Agartala), now focused on React, Node.js
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Prathamesh-1234&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Prathamesh-1234&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamesh-1234&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
